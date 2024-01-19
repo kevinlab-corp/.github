@@ -1,11 +1,6 @@
 ## kevinlab-corp
 
-### coding convention
-
-#### php
-
-- [psr-12](https://www.php-fig.org/psr/psr-12/)
-- [psr-12 한글번역](https://psr.kkame.net/accepted/psr-12-extended-coding-style-guide)
+Welcome~!!
 
 <!--
 
